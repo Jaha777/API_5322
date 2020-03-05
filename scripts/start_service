@@ -1,0 +1,5 @@
+#!/bin/bash
+
+service httpd start
+systemctl enable api_5322.service
+systemctl start api_5322.service

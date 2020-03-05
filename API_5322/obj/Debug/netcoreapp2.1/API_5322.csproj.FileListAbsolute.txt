@@ -1,0 +1,15 @@
+C:\Users\Nodirbek\Desktop\API_5322\API_5322\obj\Debug\netcoreapp2.1\API_5322.csproj.CoreCompileInputs.cache
+C:\Users\Nodirbek\Desktop\API_5322\API_5322\obj\Debug\netcoreapp2.1\API_5322.AssemblyInfoInputs.cache
+C:\Users\Nodirbek\Desktop\API_5322\API_5322\obj\Debug\netcoreapp2.1\API_5322.AssemblyInfo.cs
+C:\Users\Nodirbek\Desktop\API_5322\API_5322\bin\Debug\netcoreapp2.1\API_5322.deps.json
+C:\Users\Nodirbek\Desktop\API_5322\API_5322\bin\Debug\netcoreapp2.1\API_5322.runtimeconfig.json
+C:\Users\Nodirbek\Desktop\API_5322\API_5322\bin\Debug\netcoreapp2.1\API_5322.runtimeconfig.dev.json
+C:\Users\Nodirbek\Desktop\API_5322\API_5322\bin\Debug\netcoreapp2.1\API_5322.dll
+C:\Users\Nodirbek\Desktop\API_5322\API_5322\bin\Debug\netcoreapp2.1\API_5322.pdb
+C:\Users\Nodirbek\Desktop\API_5322\API_5322\obj\Debug\netcoreapp2.1\API_5322.csprojAssemblyReference.cache
+C:\Users\Nodirbek\Desktop\API_5322\API_5322\obj\Debug\netcoreapp2.1\API_5322.RazorAssemblyInfo.cache
+C:\Users\Nodirbek\Desktop\API_5322\API_5322\obj\Debug\netcoreapp2.1\API_5322.RazorAssemblyInfo.cs
+C:\Users\Nodirbek\Desktop\API_5322\API_5322\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Nodirbek\Desktop\API_5322\API_5322\obj\Debug\netcoreapp2.1\API_5322.RazorTargetAssemblyInfo.cache
+C:\Users\Nodirbek\Desktop\API_5322\API_5322\obj\Debug\netcoreapp2.1\API_5322.dll
+C:\Users\Nodirbek\Desktop\API_5322\API_5322\obj\Debug\netcoreapp2.1\API_5322.pdb

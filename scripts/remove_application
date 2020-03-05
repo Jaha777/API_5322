@@ -1,0 +1,4 @@
+#!/bin/bash
+rm -rf /var/www/API_5322
+rm -f /etc/httpd/conf.d/api_5322.conf
+rm -f /etc/systemd/system/api_5322.service
